@@ -40,7 +40,7 @@ Default output format [None]:
 ```
 File staring with the aws_... are the one that are used to create the **AWS** resources. 
 
-# Cheat for making Key pair executable in order to SSH for EC2:
+Cheat for making Key pair executable in order to SSH for EC2:
 ```
 chmod 400 Teraform_key.pem
 ```
